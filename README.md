@@ -28,15 +28,14 @@ Both of these challenges encompasses a real-world situation where your newfound 
   Average  Change: $-2315.12
   
   Greatest Increase in Profits: Feb-2012 ($1926159)
-  
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   -------------------------
 
 
 ## PyPoll
-
-A small, rural town modernize its vote counting process.
 Election
+A small, rural town modernize its vote counting process.
+
 The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
 Analyzed the votes and calculated the following:
 
