@@ -25,7 +25,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
   Average  Change: $-2315.12
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
-
+  -------------------------
 ## PyPoll
 
 * In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
