@@ -17,7 +17,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
   * The greatest increase in profits (date and amount) over the entire period
 
   * The greatest decrease in losses (date and amount) over the entire period
-
+'''
   Financial Analysis
   ----------------------------
   Total Months: 86
@@ -42,7 +42,7 @@ A set of poll data called election_data.csv. The dataset is composed of three co
 
   * The winner of the election based on popular vote.
 
-
+'''
   Election Results
   -------------------------
   Total Votes: 3521001
