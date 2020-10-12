@@ -17,7 +17,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
   * The greatest increase in profits (date and amount) over the entire period
 
   * The greatest decrease in losses (date and amount) over the entire period
-'''
+
   Financial Analysis
   ----------------------------
   Total Months: 86
@@ -26,23 +26,22 @@ Both of these challenges encompasses a real-world situation where your newfound 
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   -------------------------
+
+
 ## PyPoll
 
-* In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
-
-A set of poll data called election_data.csv. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.  Create a Python script that analyzes the votes and calculates each of the following:
+A small, rural town modernize its vote counting process.
+Election
+The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
+Analyzed the votes and calculated the following:
 
   * The total number of votes cast
-
   * A complete list of candidates who received votes
-
   * The percentage of votes each candidate won
-
   * The total number of votes each candidate won
-
   * The winner of the election based on popular vote.
 
-'''
+Text'''
   Election Results
   -------------------------
   Total Votes: 3521001
