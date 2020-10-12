@@ -1,14 +1,10 @@
-# Python 
 
-Welcome to the world of programming with Python.
+## Welcome to the world of programming with Python.
+
 It's time to put away the Excel sheet and join the big leagues. 
+Python scripts were created to analyze the financial statements of PyBank and the election result of PyPoll.
 
-PyBank: Analysis on monthly Profit/Loss data
-PyPoll: Analysis on election result
-
-Python scripts for analyzing the financial statments of PyBank and the electon result of PyPoll
-  
-  The dataset is composed of two columns: `Date` and `Profit/Losses` 
+  PyBank’s dataset is composed of two columns: `Date` and `Profit/Losses`.  The scripts calculated the following:
   
     * The total number of months included in the dataset
     
@@ -26,7 +22,7 @@ Python scripts for analyzing the financial statments of PyBank and the electon r
   
   Total: $38382578
   
-  Average  Change: $-2315.12
+  Average Change: $-2315.12
   
   Greatest Increase in Profits: Feb-2012 ($1926159)
   
@@ -35,7 +31,7 @@ Python scripts for analyzing the financial statments of PyBank and the electon r
   
   -------------------------
 
-The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate` 
+PyPoll’s dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.  The scripts calculated the following:
 
      * The total number of votes cast
      
