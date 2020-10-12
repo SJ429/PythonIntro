@@ -1,5 +1,4 @@
 # Python 
-## Background
 
 It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python.
 
