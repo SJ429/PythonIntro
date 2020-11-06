@@ -1,5 +1,5 @@
 
-## Welcome to the world of programming with Python.
+## Welcome to the World of Programming with Python.
 
 It's time to put away the Excel sheet and join the big leagues. 
 Python scripts were created to analyze the financial statements of PyBank and the election result of PyPoll.
