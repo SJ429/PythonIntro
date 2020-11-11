@@ -33,7 +33,10 @@ PyBank’s dataset is composed of two columns: `Date` and `Profit/Losses`.  The 
   
   -------------------------
 
-PyPoll’s dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.  The scripts calculated the following:
+PyPoll’s dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.  
+
+The scripts calculated the following:
+
 
      * The total number of votes cast
      
