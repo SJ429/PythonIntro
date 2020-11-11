@@ -1,5 +1,5 @@
 
-## Welcome to the World of Programming with Python.
+## Welcome to Python.
 
 
 It's time to put away the Excel sheet and join the big leagues. 
