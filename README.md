@@ -6,7 +6,9 @@ It's time to put away the Excel sheet and join the big leagues.
 
 Python scripts were created to analyze the financial statements of PyBank and the election result of PyPoll.
 
-PyBank’s dataset is composed of two columns: `Date` and `Profit/Losses`.  The scripts calculated the following:
+PyBank’s dataset is composed of two columns: `Date` and `Profit/Losses`.  
+
+The scripts calculated the following:
   
     * The total number of months included in the dataset
     
