@@ -6,6 +6,8 @@ It's time to put away the Excel sheet and join the big leagues.
 
 Python scripts were created to analyze the financial statements of PyBank and the election result of PyPoll.
 
+# Process
+
 Therefore, the os module was imported to create file paths across operating systems.
 
 Additionally, module for reading CSV files was imported.
@@ -25,8 +27,10 @@ with open(csvpath) as csvfile.
    
  Read each row of data after the header
     for row in csvreader:
+    
 Then iterate through each line to perform calculations and write the results to a new csv file.
 
+## PyBank
 PyBank’s dataset is composed of two columns: `Date` and `Profit/Losses`.  
 
 The scripts calculated the following:
@@ -55,6 +59,8 @@ The scripts calculated the following:
   
   
   -------------------------
+
+## PyPoll
 
 PyPoll’s dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.  
 
