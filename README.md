@@ -6,7 +6,7 @@ It's time to put away the Excel sheet and join the big leagues.
 
 Python scripts were created to analyze the financial statements of PyBank and the election result of PyPoll.
 
-# Process
+## Process
 
 Therefore, the os module was imported to create file paths across operating systems.
 
