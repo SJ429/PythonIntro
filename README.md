@@ -25,6 +25,7 @@ with open(csvpath) as csvfile.
    
  Read each row of data after the header
     for row in csvreader:
+Then iterate through each line to perform calculations and write the results to a new csv file.
 
 PyBank’s dataset is composed of two columns: `Date` and `Profit/Losses`.  
 
