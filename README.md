@@ -6,6 +6,23 @@ It's time to put away the Excel sheet and join the big leagues.
 
 Python scripts were created to analyze the financial statements of PyBank and the election result of PyPoll.
 
+Therefore, the os module was imported to create file paths across operating systems.
+Additionally, module for reading CSV files was imported.
+
+To run code, set the path for file, open and read CSV 
+
+with open(csvpath) as csvfile. 
+
+ CSV reader specifies delimiter and variable that holds contents with: 
+     csvreader = csv.reader(csvfile, delimiter=',')
+     print(csvreader)
+
+ Read the header row first 
+    csv_header = next(csvreader)
+   
+ Read each row of data after the header
+    for row in csvreader:
+
 PyBank’s dataset is composed of two columns: `Date` and `Profit/Losses`.  
 
 The scripts calculated the following:
